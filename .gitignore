@@ -345,5 +345,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+alembic.ini
+migrations/env.py
+migrations/README
+migrations/script.py.mako
 # End of https://www.toptal.com/developers/gitignore/api/python,windows,pycharm,macos
